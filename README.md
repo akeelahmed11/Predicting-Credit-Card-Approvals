@@ -5,3 +5,4 @@ We Know the banks get a many of credit card applications including loan balances
 Thankfully, with the help of machine learning, this function is automated to overcome the real time operations in much prettier/easier way.
 
  
+The whole procedure of data analysis has been followed and explained in very simple way for beginners to understand.
